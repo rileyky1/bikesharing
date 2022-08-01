@@ -3,31 +3,31 @@
 I used Tableau worksheets to analyze how effective a bike sharing program is in New York City in order to determine whether or not to start a new bike sharing program in a smaller city such as Des Moines, Iowa. These vizualizations are included below.
 
 
-Check Out Time for Users
+## Check Out Time for Users
 ![CheckoutUsers](images/CheckoutUsers.png)
 
 
-Check Out Time for Users by Gender
+## Check Out Time for Users by Gender
 ![CheckoutGender](images/CheckoutGender.png)
 
 
-Trips by Weekday Per Hour
+## Trips by Weekday Per Hour
 ![Trips](images/Trips.png)
 
 
-Trips by Weekday Per Hour by Gender
+## Trips by Weekday Per Hour by Gender
 ![TripsGender](images/TripsGender.png)
 
 
-Trips by Gender by Weekday
+## Trips by Gender by Weekday
 ![TripsGenderWeekday](images/TripsGenderWeekday.png)
 
 
-Top Starting Locations
+## Top Starting Locations
 ![TopStarting](images/TopStarting.png)
 
 
-Top Ending Locations
+## Top Ending Locations
 ![TopEnding](images/TopEnding.png)
 
 ## Summary of Tableau Story
