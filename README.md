@@ -35,7 +35,7 @@ I used Tableau worksheets to analyze how effective a bike sharing program is in 
 Link: [Tableau - Bike Sharing](https://public.tableau.com/views/BikeSharing_16593140311920/BikeSharing-NewYorkCity?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Key take-aways of these visualizations:
-- The gender most likely to use the services are males
+- Males are more likely to use the services
 - Bike utilization spikes between 6am-9am and 4pm-7pm during the week
 - Bike utilization is high throughout the daytime on weekends
 - Start and end locations indicate utilization is high in the Central Business District
