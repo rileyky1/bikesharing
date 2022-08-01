@@ -32,7 +32,7 @@ Top Ending Locations
 
 ## Summary of Tableau Story
 
-Link: [linktoTableau](https://public.tableau.com/views/BikeSharing_16593140311920/BikeSharing-NewYorkCity?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Link: [Tableau - Bike Sharing](https://public.tableau.com/views/BikeSharing_16593140311920/BikeSharing-NewYorkCity?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Key take-aways of these visualizations:
 - The gender most likely to use the services are males
