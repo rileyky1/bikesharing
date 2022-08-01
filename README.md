@@ -16,10 +16,16 @@ I used Tableau worksheets to analyze how effective a bike sharing program is in 
 
 
 ## Trips by Weekday Per Hour by Gender
+0 = unknown
+1 = male
+2 = female
 ![TripsGender](images/TripsGender.png)
 
 
 ## Trips by Gender by Weekday
+0 = unknown
+1 = male
+2 = female
 ![TripsGenderWeekday](images/TripsGenderWeekday.png)
 
 
@@ -32,7 +38,7 @@ I used Tableau worksheets to analyze how effective a bike sharing program is in 
 
 ## Summary of Tableau Story
 
-Link: [Tableau - Bike Sharing](https://public.tableau.com/views/BikeSharing_16593140311920/BikeSharing-NewYorkCity?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Link: [Tableau - Bike Sharing](https://public.tableau.com/shared/8KJ3PHJW4?:display_count=n&:origin=viz_share_link)
 
 Key take-aways of these visualizations:
 - Males are more likely to use the services
